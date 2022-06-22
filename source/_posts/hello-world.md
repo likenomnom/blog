@@ -36,3 +36,5 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+![01](https://art.onmicrosoft.cn/2022-06-22/01.png)
